@@ -274,6 +274,9 @@ org\.ifaa\.android\.manager.*
 
 # Lineage HALs
 vendor\.lineage\..*
+vendor\.lineage\.health.*
+vendor\.lineage\.livedisplay.*
+vendor\.lineage\.touch.*
 
 # OnePlus
 com.oplus.*
